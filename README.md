@@ -46,7 +46,7 @@ saucedemo-pom/
 
 ### 1. Clone the repository
 ```bash
-git clone <GITHUB_REPO_URL>
+git clone https://github.com/SHANJIDA-HRIDE/Saucedemo_Playwright.git
 cd saucedemo-playwright
 ```
 ### 2. Install dependencies
